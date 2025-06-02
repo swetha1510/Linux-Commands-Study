@@ -341,3 +341,4 @@ find <directory> -name <file_name>
 **Output:**
 
 ## Result
+thus the linux commands are executed
